@@ -8,13 +8,19 @@
 
 I'm a software engineer with a background in life science 🧬, sustainability 🌎, and visual arts 🕺. I'm currently working on honing my skills as a full stack developer 🖥 and finding Boston's best phở 🍜.
 
-My primary coding languages are:  
+My primary coding languages, libraries, and frameworks are:  
 - HTML5  
 - CSS3  
 - JavaScript  
 - jQuery  
 - Python  
-- Ruby on Rails 
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- PostgreSQL
+- Django
 
 
 ---  
